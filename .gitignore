@@ -1,0 +1,8 @@
+# generated per machine / per run - never commit these
+profile.json
+checkpoint.md
+logs/
+backup/
+run/
+session-retrospective-*.md
+*.log
